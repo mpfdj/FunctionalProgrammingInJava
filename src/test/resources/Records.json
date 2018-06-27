@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Knights Of The Jaguar EP",
+    "artist": "DJ Rolando",
+    "releaseDate": 1999,
+    "genre": "techno",
+    "euro" : 11.35
+  },
+  {
+    "name": "Kat Moda EP",
+    "artist": "Jeff Mills",
+    "releaseDate": 1997,
+    "genre": "techno",
+    "euro" : 18.00
+  },
+  {
+    "name": "Rymd / Armed",
+    "artist": "Eric Prydz",
+    "releaseDate": 2007,
+    "genre": "house",
+    "euro" : 16.91
+  }
+]
